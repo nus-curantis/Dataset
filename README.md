@@ -25,9 +25,6 @@ Data collected on 14-02-2019 starting from 11:57:42
 | Gyr_X | X axis - Gyroscope |
 | Gyr_Y | Y axis - Gyroscope |
 | Gyr_Z | Z axis - Gyroscope |
-| Mag_X | X axis - Gyroscope|
-| Mag_Y | Y axis - Magnetometer|
-| Mag_Z | Z axis - Magnetometer|
 | Label | Activity Label|
 
 These are two datasets that we can use apart from WHARF:
