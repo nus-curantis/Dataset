@@ -1,4 +1,19 @@
-# Dataset
+# Dataset details 
+
+#### Label Information
+| Label | Activity |
+| --- | --- |
+| 0 | Walking |
+| 1 | Running |
+| 2 | Commute in bus |
+| 3 | Eating using fork and spoon |
+
+#### Filename description
+
+
+#### Coloumn Description 
+
+
 
 These are two datasets that we can use apart from WHARF:
 
