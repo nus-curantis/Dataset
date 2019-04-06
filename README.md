@@ -9,6 +9,10 @@
 | 3 | Eating using fork and spoon |
 | 4 | Using mobile phone/texting |
 | 5 | Working on laptop |
+| 6 | Sitting |
+| 7 | Washing hands|
+| 8 | Eating with hand |
+| 9 | Conversing while sitting |
 
 #### Filename description
 2019-02-14_11-57-42_Accelerometer.csv 
