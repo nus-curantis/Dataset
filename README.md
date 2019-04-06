@@ -7,6 +7,8 @@
 | 1 | Running |
 | 2 | Commute in bus |
 | 3 | Eating using fork and spoon |
+| 4 | Using mobile phone/texting |
+| 5 | Working on laptop |
 
 #### Filename description
 2019-02-14_11-57-42_Accelerometer.csv 
