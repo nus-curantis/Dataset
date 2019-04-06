@@ -13,6 +13,8 @@
 | 7 | Washing hands|
 | 8 | Eating with hand |
 | 9 | Conversing while sitting |
+| 10 | Elevator |
+| 11 | Opening door |
 
 #### Filename description
 2019-02-14_11-57-42_Accelerometer.csv 
