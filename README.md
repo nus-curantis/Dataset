@@ -3,6 +3,7 @@
 #### Label Information
 | Label | Activity |
 | --- | --- |
+| -1 | Not tagged |
 | 0 | Walking |
 | 1 | Running |
 | 2 | Commute in bus |
