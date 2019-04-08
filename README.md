@@ -17,6 +17,7 @@
 | 10 | Elevator |
 | 11 | Opening door |
 | 12 | Standing |
+| 13 | Climbing upstairs |
 
 #### Filename description
 2019-02-14_11-57-42_Accelerometer.csv 
