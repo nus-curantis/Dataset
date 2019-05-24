@@ -19,6 +19,7 @@
 | 12 | Standing |
 | 13 | Climbing upstairs |
 | 14 | Running |
+| 15 | Video chat while sitting |
 
 #### Filename description
 2019-02-14_11-57-42_Accelerometer.csv 
