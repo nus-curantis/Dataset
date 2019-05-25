@@ -22,8 +22,8 @@
 | 15 | Video chat while sitting |
 
 #### Filename description
-2019-02-14_11-57-42_Accelerometer.csv 
-Data collected on 14-02-2019 starting from 11:57:42 
+1_2019-02-14_11-57-42_Accelerometer.csv 
+Data collected from user1 on 14-02-2019 starting from 11:57:42
 
 ##### Note 
 2019-02-14_11-57-42_Accelerometer.csv - sampling frequency is 1Hz. Rest are sampled at 36 Hz.
