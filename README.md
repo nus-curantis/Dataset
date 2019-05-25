@@ -18,7 +18,7 @@
 | 11 | Opening door |
 | 12 | Standing |
 | 13 | Climbing upstairs |
-| 14 | Running |
+| 14 | Jogging |
 | 15 | Video chat while sitting |
 
 #### Filename description
