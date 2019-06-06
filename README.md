@@ -20,6 +20,10 @@
 | 13 | Climbing upstairs |
 | 14 | Jogging |
 | 15 | Video chat while sitting |
+| 16 | Sleeping |
+| 17 | Walking with hand in pocket ||
+
+
 
 #### Filename description
 1_2019-02-14_11-57-42_Accelerometer.csv 
