@@ -21,7 +21,8 @@
 | 14 | Jogging |
 | 15 | Video chat while sitting |
 | 16 | Sleeping |
-| 17 | Walking with hand in pocket ||
+| 17 | Walking with hand in pocket |
+| 18 | Writing ||
 
 
 
