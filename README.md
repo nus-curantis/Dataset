@@ -22,7 +22,8 @@
 | 15 | Video chat while sitting |
 | 16 | Sleeping |
 | 17 | Walking with hand in pocket |
-| 18 | Writing ||
+| 18 | Writing |
+| 19 | Standing while commute in train ||
 
 
 
