@@ -1,8 +1,9 @@
-# Dataset details 
+# Dataset details
 
 #### Label Information
 | Label | Activity |
 | --- | --- |
+| -2 | Uncertain |
 | -1 | Not tagged |
 | 0 | Walking |
 | 1 | Running |
@@ -23,18 +24,20 @@
 | 16 | Sleeping |
 | 17 | Walking with hand in pocket |
 | 18 | Writing |
-| 19 | Standing while commute in train ||
+| 19 | Standing while commute in train |
+| 20 | Climbing downstairs |
+| 21 | Drinking ||
 
 
 
 #### Filename description
-1_2019-02-14_11-57-42_Accelerometer.csv 
+1_2019-02-14_11-57-42_Accelerometer.csv
 Data collected from user1 on 14-02-2019 starting from 11:57:42
 
-##### Note 
+##### Note
 1_2019-02-14_11-57-42_Accelerometer.csv - sampling frequency is 1Hz. Rest are sampled at 36 Hz.
 
-#### Coloumn Description 
+#### Coloumn Description
 | Coloumn header| Description |
 | --- | --- |
 | measurement | Sample number |
